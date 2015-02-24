@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "ansi-regex": "^1.1.0",
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "cli-table": "^0.3.1",
     "fs": "0.0.2",
     "jira": "git+https://github.com/plestik/node-jira.git",
